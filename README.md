@@ -13,7 +13,7 @@ yarn && yarn start
 
 In a different terminal window for each app.
 
-The visit the [landing page](http://localhost:3000/).
+Then visit the [landing page](http://localhost:3000/).
 
 Project files were created with the help of [create MFE app](https://github.com/jherr/create-mf-app).
 
